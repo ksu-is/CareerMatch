@@ -1,8 +1,8 @@
-- [x] Create title for software
-- [x] Create description of software
-- [x] Create Read.me
-- [ ] Upload code from an existing gym tracker
-- [ ] Clone files to Github Desktop and upload them to Visual Studio 
+- [x] Create title for software DONE
+- [x] Create description of software DONE
+- [x] Create Read.me DONE
+- [x] Upload code from an existing career helper DONE
+- [x] Clone files to Github Desktop and upload them to Visual Studio DONE
 - [ ] Run the code, locate problems 
 - [ ] Analyze code in Visual Studio, leave comments for each problem 
 - [ ] Work on each problem to find a solution
